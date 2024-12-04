@@ -1,6 +1,6 @@
-font1="5px"
-font2="20px"
-font3="300px"
+font1="xx-small"
+font2="medium"
+font3="xx-large"
 function smallText() {
     document.getElementById("p1").style.fontSize = font1;
     }
